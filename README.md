@@ -56,11 +56,7 @@ Create a new database named pet_inventory.
 
 Select the newly created pet_inventory database from the sidebar.
 
-Click on the Import tab.
-
-Choose the database.sql file provided in this project and click "Import".
-
-This will create the users, pets, and custom_services tables.
+Create the users, pets, and custom_services tables.
 
 **3. Run the Application**
 
